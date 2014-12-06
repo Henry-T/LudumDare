@@ -1,0 +1,13 @@
+Library
+*.userprefs
+*.suo
+*.pidb
+*.unityproj
+Temp
+*.cache
+*.apk
+*.unity3d
+obj
+bin
+Bin
+*.DotSettings
